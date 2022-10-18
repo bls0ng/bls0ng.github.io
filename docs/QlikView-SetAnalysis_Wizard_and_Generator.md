@@ -1,3 +1,3 @@
 layout: page
-title: "SetAnalysisWizard"
-permalink: /SetAnalysisWizard/QlikView-SetAnalysis_Wizard_and_Generator
+title: "QlikView-SetAnalysis_Wizard_and_Generator"
+permalink: /SetAnalysisWizard/Default
