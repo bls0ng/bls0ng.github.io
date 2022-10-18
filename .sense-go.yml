@@ -7,7 +7,7 @@ packageName: 'swr-Set-Analysis-Wizard'
 # Optional settings
 # -------------------------------------------------------------------
 localExtensionDir: ''         # defaults to the local extension directory
-srcDir: './legacy'               # defaults to './src'
+srcDir: './src'               # defaults to './src'
 buildDir: './build'           # defaults to './build'
 tmDir: './.tmp'               # defaults to './.tmp'
 
